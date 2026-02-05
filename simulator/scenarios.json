@@ -1,0 +1,19 @@
+{
+  "scenarios": [
+    {
+      "scenario_name": "Highway Dry Road",
+      "speed_kmh": 100,
+      "road_condition": 0
+    },
+    {
+      "scenario_name": "Highway Wet Road",
+      "speed_kmh": 120,
+      "road_condition": 1
+    },
+    {
+      "scenario_name": "Icy City Road",
+      "speed_kmh": 60,
+      "road_condition": 2
+    }
+  ]
+}
